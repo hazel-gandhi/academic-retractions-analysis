@@ -4,7 +4,7 @@ This project is an analysis of academic retractions since 2010 and uses the data
 
 ## 🎯 Aim
 
--  I read about how academic retractions were on the rise and was curious to find where they happened the most, and the reasons behind them too. That was the main goal of the project.
+-  I [read](https://www.nature.com/articles/d41586-023-03974-8) about how academic retractions were on the rise and was curious to find where they happened the most, and the reasons behind them too. That was the main goal of the project.
 -  Learn how to analyze large CSVs.
 -  Use R for data visualization.
 
@@ -16,7 +16,7 @@ This project is an analysis of academic retractions since 2010 and uses the data
 
 ## 🛠️ Data Collection and Analysis Process
 
--  I used the **Retraction Watch** database for my analysis. The database is **massive** and dates back to the **1800s**, containing retractions from almost all major countries.
+-  I used the [**Retraction Watch**](https://retractionwatch.com/) database for my analysis. The database is **massive** and dates back to the **1800s**, containing retractions from almost all major countries.
 -  **Pushed the CSV into pandas** to make analysis easier.
 - Filtered the data to **begin from 2010** (I decided going back 15 years was enough).
 -  Made a lot of **methodological choices**:
@@ -24,6 +24,7 @@ This project is an analysis of academic retractions since 2010 and uses the data
     - All kinds of **errors** (in data collection, analysis, images, etc.) were categorized under **"errors"**.
     - Fabrication and falsification were **clubbed together**.
     - Plagiarism and **fake peer review** had their own categories because they are **serious enough** to warrant separate classifications.
+    -I also took some help from [this](https://www.nature.com/articles/d41586-023-03974-8) Nature article to help me categorize the reasons better.
 
 ## 🚀 New Skills Acquired / Improved Approaches
 
