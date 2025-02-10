@@ -2,6 +2,13 @@
 
 This project is an analysis of academic retractions since 2010 and uses the database maintained by Retraction Watch, a New York-based group documenting global retractions in academia.
 
+## 📁 Repo Guide
+
+- 📄 **retraction_watch.csv**: Main CSV I downloaded from the Retraction Watch database to do my analysis  
+- 📂 **analysis/**: A folder with filtered dataframes that I used to make charts  
+- 📝 **retraction-watch.ipynb**: Main notebook with all my code  
+
+
 ## 🎯 Aim
 
 -  I [read](https://www.nature.com/articles/d41586-023-03974-8) about how academic retractions were on the rise and was curious to find where they happened the most, and the reasons behind them too. That was the main goal of the project.
