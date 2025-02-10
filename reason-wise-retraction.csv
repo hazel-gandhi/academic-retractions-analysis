@@ -1,0 +1,114 @@
+,RetractionYear,GroupedReason,count
+0,2010,Errors in Data/Image/Analysis,102
+1,2010,Falsification/Fabrication,5
+2,2010,Investigation by Journal/Third Party,224
+3,2010,Misconduct/Breach of Policy,795
+4,2010,Other,1578
+5,2010,Plagiarism,54
+6,2011,Errors in Data/Image/Analysis,49
+7,2011,Fake Peer Review,1
+8,2011,Falsification/Fabrication,15
+9,2011,Investigation by Journal/Third Party,29
+10,2011,Misconduct/Breach of Policy,2286
+11,2011,Other,1440
+12,2011,Plagiarism,78
+13,2012,Errors in Data/Image/Analysis,129
+14,2012,Fake Peer Review,26
+15,2012,Falsification/Fabrication,19
+16,2012,Investigation by Journal/Third Party,23
+17,2012,Misconduct/Breach of Policy,125
+18,2012,Other,315
+19,2012,Plagiarism,77
+20,2013,Errors in Data/Image/Analysis,140
+21,2013,Fake Peer Review,8
+22,2013,Falsification/Fabrication,22
+23,2013,Investigation by Journal/Third Party,35
+24,2013,Misconduct/Breach of Policy,77
+25,2013,Other,261
+26,2013,Plagiarism,120
+27,2014,Errors in Data/Image/Analysis,153
+28,2014,Fake Peer Review,1
+29,2014,Falsification/Fabrication,22
+30,2014,Investigation by Journal/Third Party,41
+31,2014,Misconduct/Breach of Policy,35
+32,2014,Other,308
+33,2014,Plagiarism,109
+34,2015,Errors in Data/Image/Analysis,238
+35,2015,Fake Peer Review,113
+36,2015,Falsification/Fabrication,11
+37,2015,Investigation by Journal/Third Party,61
+38,2015,Misconduct/Breach of Policy,120
+39,2015,Other,340
+40,2015,Plagiarism,138
+41,2016,Errors in Data/Image/Analysis,266
+42,2016,Fake Peer Review,92
+43,2016,Falsification/Fabrication,36
+44,2016,Investigation by Journal/Third Party,105
+45,2016,Misconduct/Breach of Policy,78
+46,2016,Other,401
+47,2016,Paper Mill,1
+48,2016,Plagiarism,141
+49,2017,Errors in Data/Image/Analysis,274
+50,2017,Fake Peer Review,137
+51,2017,Falsification/Fabrication,19
+52,2017,Investigation by Journal/Third Party,113
+53,2017,Misconduct/Breach of Policy,61
+54,2017,Other,440
+55,2017,Paper Mill,1
+56,2017,Plagiarism,203
+57,2018,Errors in Data/Image/Analysis,392
+58,2018,Fake Peer Review,51
+59,2018,Falsification/Fabrication,33
+60,2018,Investigation by Journal/Third Party,137
+61,2018,Misconduct/Breach of Policy,133
+62,2018,Other,616
+63,2018,Paper Mill,2
+64,2018,Plagiarism,254
+65,2019,Errors in Data/Image/Analysis,487
+66,2019,Fake Peer Review,33
+67,2019,Falsification/Fabrication,32
+68,2019,Investigation by Journal/Third Party,149
+69,2019,Misconduct/Breach of Policy,68
+70,2019,Other,811
+71,2019,Paper Mill,4
+72,2019,Plagiarism,560
+73,2020,Errors in Data/Image/Analysis,550
+74,2020,Fake Peer Review,66
+75,2020,Falsification/Fabrication,23
+76,2020,Investigation by Journal/Third Party,181
+77,2020,Misconduct/Breach of Policy,90
+78,2020,Other,1021
+79,2020,Paper Mill,92
+80,2020,Plagiarism,396
+81,2021,Errors in Data/Image/Analysis,505
+82,2021,Fake Peer Review,801
+83,2021,Falsification/Fabrication,38
+84,2021,Investigation by Journal/Third Party,557
+85,2021,Misconduct/Breach of Policy,81
+86,2021,Other,895
+87,2021,Paper Mill,421
+88,2021,Plagiarism,287
+89,2022,Errors in Data/Image/Analysis,420
+90,2022,Fake Peer Review,1825
+91,2022,Falsification/Fabrication,30
+92,2022,Investigation by Journal/Third Party,697
+93,2022,Misconduct/Breach of Policy,75
+94,2022,Other,1569
+95,2022,Paper Mill,594
+96,2022,Plagiarism,228
+97,2023,Errors in Data/Image/Analysis,676
+98,2023,Fake Peer Review,343
+99,2023,Falsification/Fabrication,43
+100,2023,Investigation by Journal/Third Party,3322
+101,2023,Misconduct/Breach of Policy,81
+102,2023,Other,784
+103,2023,Paper Mill,4643
+104,2023,Plagiarism,209
+105,2024,Errors in Data/Image/Analysis,279
+106,2024,Fake Peer Review,465
+107,2024,Falsification/Fabrication,18
+108,2024,Investigation by Journal/Third Party,1234
+109,2024,Misconduct/Breach of Policy,112
+110,2024,Other,337
+111,2024,Paper Mill,1163
+112,2024,Plagiarism,239
