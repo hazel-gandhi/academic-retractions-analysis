@@ -4,10 +4,11 @@ This project is an analysis of academic retractions since 2010 and uses the data
 
 ## 📁 Repo Guide
 
-- 📄 **retraction_watch.csv**: Main CSV I downloaded from the Retraction Watch database to do my analysis  
+- 📄 **retraction_watch.csv**: Main CSV I downloaded from the Retraction Watch database to do my analysis
+- 📝 **retraction-watch.ipynb**: Main notebook with all my code    
 - 📂 **analysis/**: A folder with filtered dataframes that I used to make charts  
-- 📄 **images**: All my charts created in R in png format
-- 📝 **retraction-watch.ipynb**: Main notebook with all my code  
+- 📂 **images**: All my charts created in R in png format
+
 
 
 ## 🎯 Aim
