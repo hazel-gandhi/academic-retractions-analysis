@@ -1,5 +1,6 @@
 # 📉 Retractions in Academic Studies
 
+Project link: https://hazel-gandhi.github.io/academic-retractions-analysis/
 This project is an analysis of academic retractions since 2010 and uses the database maintained by Retraction Watch, a New York-based group documenting global retractions in academia.
 
 ## 📁 Repo Guide
